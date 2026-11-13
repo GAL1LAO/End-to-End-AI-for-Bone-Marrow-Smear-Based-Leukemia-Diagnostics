@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local DICOM data. Download separately using the identifiers in README.md.
+_data/
+*.dcm
